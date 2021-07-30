@@ -1,5 +1,5 @@
 import { Summary } from "../Summary";
-import { TransactionTable } from "../Transaction";
+import { TransactionTable } from "../TransactionTable";
 import { Container } from "./styles";
 
 export function Dashboard() {
